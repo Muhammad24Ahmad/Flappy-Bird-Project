@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@drawable/bg">
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:padding="10dp"
+        android:layout_marginBottom="200dp"
+        android:src="@drawable/title">
+    </ImageView>
+
+    <Button
+        android:id="@+id/btnlevel1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:backgroundTint="@color/transparent"
+        android:orientation="vertical"
+        android:text="Level 1"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:textColor="@color/white">
+    </Button>
+
+    <Button
+        android:id="@+id/btnlevel2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:backgroundTint="@color/transparent"
+        android:orientation="vertical"
+        android:text="Level 2"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:textColor="@color/white">
+    </Button>
+    <Button
+        android:id="@+id/btnlevel3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:backgroundTint="@color/transparent"
+        android:orientation="vertical"
+        android:text="Level 3"
+        android:textStyle="bold"
+        android:textSize="18sp"
+        android:textColor="@color/white">
+    </Button>
+
+</LinearLayout>

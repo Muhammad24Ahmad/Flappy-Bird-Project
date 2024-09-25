@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "285755630219",
+    "project_id": "flappy-bird-1c68d",
+    "storage_bucket": "flappy-bird-1c68d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285755630219:android:2a9932b9017cbbc62bea8e",
+        "android_client_info": {
+          "package_name": "bsce20024.ahmad.firebaselogin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3EHRpbMtoqFoL8ztcNn39dFQFURLadrY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
